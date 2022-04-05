@@ -11,8 +11,8 @@ I learnt about implementing some Machine Learning algorithm in scratch in this c
 
 |Title | Description | Dataset | Notebooks |
 | --- | --- | --- | --- | 
-| Linear Regression (scratch) | Using Linear Equation | [Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) | [![PyTorch](https://img.shields.io/badge/jupyter-notebook-orange)](pytorch_ipynb/basic-ml/perceptron.ipynb) |
-| Logistic Regression | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/logistic-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)|
+| Linear Regression (scratch) | Using Linear Equation | [Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH1_18110095.ipynb) |
+| Linear Regression (scratch) | Using Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
 | Softmax Regression (Multinomial Logistic Regression) | TBD | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb) |
 | Softmax Regression with MLxtend's plot_decision_regions on Iris | TBD | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) |
 
