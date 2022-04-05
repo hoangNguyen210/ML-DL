@@ -34,4 +34,14 @@ In this course, I learnt to familar with Deep Learning libraries like TensorFlow
 | VGG16 | Sequential API| [Cifar-10](https://keras.io/api/datasets/cifar10/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH2_18110095.ipynb)|
 | 2D-CNN  | Model Subclassing. Implement a block consist of 2 consecutive Conv2D and MaxPool2D | [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH3_18110095.ipynb)|
 | ResNet50 | Model Subclassing | [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH4_18110095.ipynb)|
+| LSTM,GRU | Used Glove Embedding with LSTM or GRU to solve Setiment Classification problem | [Spam Detection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH5_18110095.ipynb)|
+| Conv1D | Used Glove Embedding with Conv1D layer. Compared performance when setting Trainable in Embedding layer False or True| [Spam Detection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH6_18110095.ipynb)|
+| DCGAN | Used DCGAN to generate MNIST dataset. Some changes on CallBack function | [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH7_18110095.ipynb)|
+| CGAN | Used CGAN to generate images from MNIST dataset with given classes| [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH8_18110095.ipynb)|
+| CGAN | Used CGAN to generate images from MNIST dataset with given classes| [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH8_18110095.ipynb)|
+| Reinforcement Learning| Implemented Mountain Car game | [Mountain Car](https://gym.openai.com/envs/MountainCarContinuous-v0/) | [![OpenAI](https://img.shields.io/badge/Open-AI-brightgreen)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH9_18110095.ipynb)|
+
+
+
+
 
