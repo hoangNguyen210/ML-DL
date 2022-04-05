@@ -19,15 +19,8 @@ I learnt about implementing some Machine Learning algorithm in scratch in this c
 | Hierarchical Clustering (sklearn) | TBD| [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH6_18110095.ipynb)|
 | Random Forest  | Implemented with the help of sklearn Decision Tree model| Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH7_18110095.ipynb)|
 | Multilayer-Perceptron (scratch) | Used idea from Andrew's Deep Learning course| [Our dataset](https://raw.githubusercontent.com/huynhthanh98/ML/master) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH8_18110095.ipynb)|
-## Multilayer Perceptrons
-
-|Title | Description | Dataset | Notebooks |
-| --- | --- | --- | --- | 
-| Multilayer Perceptron | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
-| Multilayer Perceptron with Dropout | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
-|Multilayer Perceptron with Batch Normalization | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-batchnorm.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-batchtnorm.ipynb) |
-|Multilayer Perceptron with Backpropagation from Scratch | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)|
-
+| Multilayer-Perceptron (TensorFlow) | TBD| [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH9_18110095.ipynb)|
+| Support Vector Machine (sklearn) | | [Our dataset](https://raw.githubusercontent.com/huynhthanh98/ML/master/lab-10/) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH10_18110095.ipynb)|
 
 
 ## Convolutional Neural Networks
