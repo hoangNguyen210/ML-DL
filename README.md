@@ -4,11 +4,9 @@ This is 2 course about Machine Learning and Deep Learning that I learnt at my un
 
 
 
-# Deep Learning Models
+## Machine Learning
 
-A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
-
-
+I learnt about implementing some Machine Learning algorithm in scratch in this course
 
 ## Traditional Machine Learning
 
