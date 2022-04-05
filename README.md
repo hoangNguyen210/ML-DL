@@ -13,11 +13,9 @@ I learnt about implementing some Machine Learning algorithm in scratch in this c
 | --- | --- | --- | --- | 
 | Linear Regression (scratch) | Using Linear Equation | [Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH1_18110095.ipynb) |
 | Linear Regression (scratch) | Using Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
-
-| Linear Regression (scratch) | Using Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
-
-| Linear Regression (scratch) | Using Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
-| Linear Regression (scratch) | Using Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
+| Logistic Regression (scratch) | TBD | [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH3_18110095.ipynb)|
+| Naive Bayes (scratch) | Multinomial Naive Bayes and Gaussian Naive Bayes | [Titanic](https://www.kaggle.com/c/titanic/data) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH4_18110095.ipynb)|
+| K-Mean (scratch) | TBD| [Mall Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH5_18110095.ipynb)|
 
 ## Multilayer Perceptrons
 
