@@ -6,7 +6,7 @@ This is 2 course about Machine Learning and Deep Learning that I learnt at my un
 
 ## Machine Learning
 
-I learnt about implementing some Machine Learning algorithm in scratch in this course
+In this course, I learnt to implement some Machine Learning to solve Regression and mainly Classification task. 
 
 
 |Title | Description | Dataset | Notebooks |
@@ -25,12 +25,13 @@ I learnt about implementing some Machine Learning algorithm in scratch in this c
 
 ## Deep Learning
 
+In this course, I learnt to familar with Deep Learning libraries like TensorFlow and Keras.  
+
 
 |Title | Description | Dataset | Notebooks |
 | --- | --- | --- | --- | 
-| Linear Regression (scratch) | Used Linear Equation | [Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH1_18110095.ipynb) |
-| Linear Regression (scratch) | Used Gradient Descent | [Fish Markets](https://www.kaggle.com/datasets/aungpyaeap/fish-market) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH2_18110095.ipynb)|
-| Logistic Regression (scratch) | TBD | [Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH3_18110095.ipynb)|
-| Naive Bayes (scratch) | Implemented Multinomial Naive Bayes and Gaussian Naive Bayes | [Titanic](https://www.kaggle.com/c/titanic/data) | [![jupyter](https://img.shields.io/badge/jupyter-notebook-orange)](https://github.com/hoangNguyen210/ML-DL/blob/main/Machine%20Learning/NMMH_TH4_18110095.ipynb)|
-
+| MLP  | Functional API| [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH1_18110095.ipynb|
+| VGG16 | Sequential API| [Cifar-10](https://keras.io/api/datasets/cifar10/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH2_18110095.ipynb|
+| 2D-CNN  | Model Subclassing. Implement a block consist of 2 consecutive Conv2D and MaxPool2D | [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH3_18110095.ipynb|
+| ResNet50 | Model Subclassing | [MNIST digits classification](https://keras.io/api/datasets/mnist/) | [![tensorflow](https://img.shields.io/badge/Tensor-Flow2.0-red)](https://github.com/hoangNguyen210/ML-DL/blob/main/Deep%20Learning/MHNC_TH4_18110095.ipynb|
 
